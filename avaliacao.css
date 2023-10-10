@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(61, 132, 165);
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    
+    #caixa1{
+        border: 3px solid rgb(9, 103, 158);
+        height: 100px;
+        margin-left: 300px;
+        text-align: center;
+    }
+    
+    #caixa1 h1 {
+        padding-top: 20px;
+        font-size: 50px;
+    }
+    
+    #caixa2{
+        
+        border: 3px solid rgb(9, 103, 158);
+        height: 700px;
+        margin-left: 300px;
+        font-size: 25px;
+        
+    }
+    
+    #caixa2 p, ul {
+        margin-left: 25px;
+        padding-top: 60px;
+    }
+    
+    #caixa3 {
+        border: 3px solid rgb(9, 103, 158);
+        height: 112px;
+        margin-left: 300px;
+    
+    }
+    
+    #caixa3 p{
+        margin: 20px 0px 0px 0px ;
+        text-align: center;
+    }
+    
+    #caixa4{
+        border: 3px solid rgb(9, 103, 158);
+        width: 295px;
+        height: 925px;
+        position: absolute;
+        top: 0;
+        z-index: 1;
+    }
+    
+    #caixa4 img{
+        padding-top: 300px;
+        height: 250px;
+    }
+    
+    #caixa4 textarea , button{
+        background-color: white;
+        color: black;
+    }
